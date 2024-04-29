@@ -3,7 +3,7 @@
 ## University of Texas at Austin, i310D: Introduction to Human-Centered Data Science
 ### Dr. Abhijit Mishra
 ### Date: April 29, 2024
-### Group Members: [List Group Members Here]
+### Group Members: Tyler Henry, Julia Fang, Kyle Castillo, Sydney Frisch
 
 This repository contains our final project for i310D, where we developed a machine learning model to predict marital status using demographic data from the Public Use Microdata Sample (PUMS) of the U.S. Census. Our methods included logistic regression and a neural network, processed using Python and the DuckDB package for optimal data handling and analysis.
 
