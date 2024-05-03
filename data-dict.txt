@@ -20,7 +20,6 @@ RNTP - Monthly rent (use ADJHSG to adjust RNTP to constant dollars)
 MAR - Marital status
 ENG - Ability to speak English
 
-
 VALP - Property value
 Topics: 
 Financial Characteristics
