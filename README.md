@@ -8,8 +8,8 @@
 This repository contains our final project for i310D, where we developed a machine learning model to predict marital status using demographic data from the Public Use Microdata Sample (PUMS) of the U.S. Census. Our methods included logistic regression and a neural network, processed using Python and the DuckDB package for optimal data handling and analysis.
 
 ### Repository Contents:
-- **Data Description**: Scripts and notebooks detailing how we processed the PUMS data, focusing on regions around Austin, Texas. This includes cleaning data, handling zeros in the dataset, and feature engineering.
-- **Methodology**: Code and explanation for our binary classification models using logistic regression and a MultiLayered Perceptron (MLP). Also includes the use of LIME for model interpretability.
+- **Data Descriptions**: Scripts and notebooks detailing how we processed the PUMS data, focusing on regions around Austin, Texas. This includes cleaning data, handling zeros in the dataset, and feature engineering. The .md file is cleaned for casual viewing while the .txt file excplicitly states what each attribute of each variable controls.
+- **.ipynb File**: Code and explanation for our binary classification models using logistic regression and a MultiLayered Perceptron (MLP). Also includes the use of LIME for model interpretability.
 - **Results**: Analysis and visualizations of model performances and their implications on predicting marital status.
 
 ### How to Run:
