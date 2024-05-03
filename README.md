@@ -18,7 +18,7 @@ This repository contains our final project for i310D, where we developed a machi
 ### How to Run:
 To view and run the Jupyter Notebook associated with this project, you can use [nbviewer.org](https://nbviewer.org/). Follow these steps:
 
-1. Navigate to the Jupyter Notebook file (`project_analysis.ipynb`) in the repository.
+1. Navigate to the Jupyter Notebook file (`mainproj.ipynb`) in the repository.
 2. Copy the URL of the Jupyter Notebook file.
 3. Visit [nbviewer.org](https://nbviewer.org/) in your web browser.
 4. Paste the copied URL into the input field on the nbviewer website.
