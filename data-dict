@@ -47,16 +47,7 @@ JWTRNS - Means of transportation to work
 Topics: 
 Commuting
 Suggested Weight : PWGTP
-Description : 
-
-		
-		
-			
-			
-			
-		
-		Means of transportation to work
-	
+Description : Means of transportation to work
 Values: 
 0 - N/A (not a worker-not in the labor force, including persons under 16 years; unemployed; employed, with a job but not at work; Armed Forces, with a job but not at work)
 01 - Car, truck, or van
