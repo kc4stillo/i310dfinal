@@ -16,7 +16,17 @@ This repository contains our final project for i310D, where we developed a machi
 - **References**: Detailed citations of all datasets, libraries, and tools used.
 
 ### How to Run:
-Instructions on how to set up and run the analysis are provided in the respective script and notebook headers.
+To view and run the Jupyter Notebook associated with this project, you can use [nbviewer.org](https://nbviewer.org/). Follow these steps:
+
+1. Navigate to the Jupyter Notebook file (`project_analysis.ipynb`) in the repository.
+2. Copy the URL of the Jupyter Notebook file.
+3. Visit [nbviewer.org](https://nbviewer.org/) in your web browser.
+4. Paste the copied URL into the input field on the nbviewer website.
+5. Press Enter or click on the "Go!" button.
+6. nbviewer will render the Jupyter Notebook, allowing you to view the code, visualizations, and markdown content.
+7. You can interact with the notebook by running code cells, modifying parameters, and exploring the analysis.
+
+By using nbviewer.org, you can easily access and run the Jupyter Notebook without requiring a local Jupyter environment. Feel free to experiment with the code and explore the analysis presented in the notebook.
 
 ### Additional Notes:
 All code was reviewed and edited for clarity and functionality. Visual aids used in the report are included to better illustrate findings.
